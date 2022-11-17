@@ -89,7 +89,7 @@
     "@material-ui/lab": "4.0.0-alpha.60",
     "@openzeppelin/contracts": "4.7.3",
     "@sentry/react": "^6.10.0",
-    "@sentry/tracing": "^6.10.0",
+    "@sentry/tracing": "^6.19.7",
     "@truffle/hdwallet-provider": "^2.0.8",
     "@unstoppabledomains/resolution": "^7.1.4",
     "abi-decoder": "^2.4.0",
