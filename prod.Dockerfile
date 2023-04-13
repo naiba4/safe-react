@@ -18,7 +18,7 @@ COPY . .
 RUN yarn build
 
 # Deploy the build
-FROM nginx:1-alpine
+FROM nginx:1.24-alpine
 
 COPY ./docker/nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=react-build-step /app/build /usr/share/nginx/html/
