@@ -168,7 +168,7 @@
     "@typescript-eslint/parser": "^4.31.1",
     "concurrently": "^6.0.0",
     "cross-env": "^7.0.3",
-    "cypress": "^9.5.1",
+    "cypress": "^13.0.0",
     "cypress-file-upload": "^5.0.8",
     "dotenv": "^10.0.0",
     "dotenv-expand": "^5.1.0",
